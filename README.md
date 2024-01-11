@@ -4,7 +4,7 @@ PowerTree is a script that, once loaded, can be executed in your VSCode Powershe
 
 
 <a href="https://freeimage.host/i/J7t1BHl">
-    <img src="https://iili.io/J7t1BHl.md.png" alt="Image" width="500"/>
+    <img src="https://iili.io/J7t1BHl.md.png" alt="Image" width="900"/>
 </a>
 
 **Windows support only**
